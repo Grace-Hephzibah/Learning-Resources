@@ -12,3 +12,5 @@ Well the best part is the udacity course is free and coursera course can also be
 
 ## Other resources:
 - https://www.tensorflow.org/resources/learn-ml
+
+### Books are available in PDF Drive 
