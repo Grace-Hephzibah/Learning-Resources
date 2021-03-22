@@ -17,6 +17,7 @@ All the resources I use to learn and code.
 - Coding Game 
 - <a href = "https://elitedatascience.com/machine-learning-projects-for-beginners"> Elite Data Science </a>
 - Kaggle 
+- HackerEarth
 
 ## Some Youtube channels 
 - <a href = "https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ"> Clever Programmer </a>
